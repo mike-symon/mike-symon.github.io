@@ -1,5 +1,14 @@
-h1 { color: blue; }
-
-h2 {
-  color:  red;
+h1 { color: red ; 
+border-style: solid ;
+background-color: #902109 ;
+text-align: center ;
+font-size: 66px ;
+font-family: 'Rubik Wet Paint', cursive;
 }
+
+h3 {
+  color:  black;
+}
+
+p { color:#113344 ;
+  font-family: 'Concert One', cursive ; }
