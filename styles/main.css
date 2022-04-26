@@ -3,10 +3,22 @@ border-style: solid ;
 background-color: #902109 ;
 text-align: center ;
 font-size: 66px ;
-font-family: 'Rubik Wet Paint', cursive;
-}
+font-family: 'Rubik Wet Paint', cursive;}
 
-h3 { color:  black; }
+h2 { font-family: 'Concert One', cursive ; }
 
-p { color:#113344 ;
-  font-family: 'Concert One', cursive ; }
+h3 { font-family: 'Concert One', cursive ; }
+
+p { color:#113344 ; font-family: 'Concert One', cursive ; }
+
+li { font-family: 'Concert One', cursive ; }
+
+#centered {text-align: center ;}
+
+#R { color: red ;}
+#A { color: orange ;}
+#I { color: yellow ;}
+#N { color: green ;}
+#B { color: blue ;}
+#O { color: indigo ;}
+#W { color: violet ;}
