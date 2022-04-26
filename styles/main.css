@@ -25,3 +25,7 @@ li { font-family: 'Concert One', cursive ; }
 #B { color: blue ;}
 #O { color: indigo ;}
 #W { color: violet ;}
+
+.right {
+            
+  text-align: right; }
