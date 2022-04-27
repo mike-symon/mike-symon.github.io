@@ -1,5 +1,5 @@
 body { 
-  background-image: url('/Users/mike/Repos/mike-symon.github.io/shiba.jpeg'); background-size: cover; }
+  background-image: url('../shiba.jpeg'); background-size: cover; }
 
 h1 { color: red ; 
 border-style: solid ;
