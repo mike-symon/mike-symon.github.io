@@ -1,0 +1,16 @@
+body { background-color: #fcc824;}
+h1 { text-align: center;}
+h1 { font-family:monospace;}
+h2 { font-family:monospace;}
+p {font-family: monospace; font-size: larger;}
+
+
+  .main_div {
+                text-align:center;
+                position: relative;
+                left: 100px;
+                height: 200px;
+                width: 500px; }
+
+                body { background-image: url(../mike-symon.github.io/shiba.jpeg);  background-repeat: no-repeat;
+  background-size: 1900px 720px; background-position: bottom left;}
