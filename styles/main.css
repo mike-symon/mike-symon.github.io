@@ -7,7 +7,7 @@ body { background-color: #fcc824;  }
   left: 100px;
   height: 200px;
   width: 500px; }
-body {background-image: url(./mike-symon.github.io/images/shiba.jpeg);  background-repeat: no-repeat;
+body {background-image: url(/mike-symon.github.io/images/shiba.jpeg);  background-repeat: no-repeat;
   background-size: 1900px 720px; background-position: bottom left;}
 
 h1 { color: red ; 
