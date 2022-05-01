@@ -1,5 +1,6 @@
 
-body { background-color: #fcc824;  }
+body { background-color: #fcc824; background-image: url(../mike-symon.github.io/images/shiba.jpeg);  background-repeat: no-repeat;
+  background-size: 1900px 720px; background-position: bottom left; }
 
 .main_div {
   text-align:center;
