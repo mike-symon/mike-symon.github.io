@@ -1,15 +1,24 @@
 
-body { background-color: #fcc824; background-image: url("../images/mike-symon.github.io/images/shiba.jpeg");  background-repeat: no-repeat;
-  background-size: 1900px 720px; background-position: bottom left; }
+body {
+   background-color: #fcc824; 
+   /* background-image: url("../images/shiba.jpeg");  background-repeat: no-repeat;
+  background-size: 1900px 720px; 
+  background-position: bottom left;  */
+}
  
 .main_div {
   text-align:center;
   position: relative;
   left: 100px;
   height: 200px;
-  width: 500px; }
-body {background-image: url(../mike-symon.github.io/images/shiba.jpeg);  background-repeat: no-repeat;
-  background-size: 1900px 720px; background-position: bottom left;}
+  width: 500px; 
+}
+
+/* body {
+  background-image: url(../mike-symon.github.io/images/shiba.jpeg);  background-repeat: no-repeat;
+  background-size: 1900px 720px; 
+  background-position: bottom left;
+} */
 
 h1 { color: red ; 
 border-style: solid ;
@@ -36,10 +45,16 @@ li { font-family: 'Concert One', cursive ; }
 #O { color: indigo ;}
 #W { color: violet ;}
 
-.right {
-            
-  text-align: right; }
+.right {            
+  text-align: right; 
+}
 
-  .left {
-            
-    text-align: left; }
+.left {
+  text-align: left; 
+}
+
+.dog {
+  display: flex;
+  align-content: center; 
+  justify-content: space-around;
+}
