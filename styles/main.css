@@ -58,3 +58,5 @@ li { font-family: 'Concert One', cursive ; }
   align-content: right; 
   justify-content: space-around;
 }
+
+.smallerpic {size-adjust: 50% ;}
