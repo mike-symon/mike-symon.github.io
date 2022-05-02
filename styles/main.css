@@ -59,4 +59,4 @@ li { font-family: 'Concert One', cursive ; }
   justify-content: space-around;
 }
 
-.smallerpic {max-width: fit-content ;}
+.smallerpic {max-width: 50% ;}
