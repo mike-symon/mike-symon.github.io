@@ -55,6 +55,6 @@ li { font-family: 'Concert One', cursive ; }
 
 .dog {
   display: flex;
-  align-content: center; 
+  align-content: right; 
   justify-content: space-around;
 }
