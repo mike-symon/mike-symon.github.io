@@ -32,13 +32,13 @@ li { font-family: 'Press Start 2P', 'Concert One', cursive ; }
 
 #centered {text-align: center ;}
 
-#R { color: red ;}
-#A { color: rgb(255, 119, 0) ;}
-#I { color: yellow ;}
-#N { color: green ;}
-#B { color: blue ;}
-#O { color: indigo ;}
-#W { color: violet ;}
+#R { color: #E20C04 ;}
+#A { color: #F9A35C ;}
+#I { color: #FEE88A ;}
+#N { color: #44CFBA ;}
+#B { color: #2D9CE0 ;}
+#O { color: #8C53DF ;}
+#W { color: #F65D61 ;}
 #Grey { color: rgb(241, 241, 241) ;}
 
 .right {            
