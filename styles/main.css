@@ -39,7 +39,7 @@ li { font-family: 'Press Start 2P', 'Concert One', cursive ; }
 #B { color: #2D9CE0 ;}
 #O { color: #8C53DF ;}
 #W { color: #F65D61 ;}
-#Grey { color: rgb(241, 241, 241) ;}
+#Grey { color: #b8bbc2 ; font-family: 'Press Start 2P';}
 
 .right {            
   text-align: right; 
