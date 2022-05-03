@@ -57,7 +57,7 @@ li { font-family: 'Concert One', cursive ; }
   display: flex;
   align-content: right; 
   justify-content: space-around;
-  size: 200%;
+  size-adjust: 200%;
 }
 
 .smallerpic {
