@@ -32,8 +32,8 @@ li { font-family: 'Press Start 2P', 'Concert One', cursive ; }
 
 #centered {text-align: center ;}
 
-#R { color: #E20C04 ;}
-#A { color: orange ;}
+#R { color: #ff4942 ;}
+#A { color: rgb(255, 145, 0) ;}
 #I { color: rgb(255, 235, 82) ;}
 #N { color: #44CFBA ;}
 #B { color: #2D9CE0 ;}
