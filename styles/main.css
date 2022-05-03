@@ -26,7 +26,7 @@ h2 { font-family: 'Concert One', cursive ; }
 
 h3 { font-family: 'Concert One', cursive ; }
 
-p { color:#113344 ; font-family: 'Concert One', cursive ; }
+p { color:#ffffff ; font-family: 'Concert One', cursive ; }
 
 li { font-family: 'Concert One', cursive ; }
 
@@ -39,7 +39,7 @@ li { font-family: 'Concert One', cursive ; }
 #B { color: blue ;}
 #O { color: indigo ;}
 #W { color: violet ;}
-
+#White { color: rgb(255, 255, 255) ;}
 .right {            
   text-align: right; 
 }
