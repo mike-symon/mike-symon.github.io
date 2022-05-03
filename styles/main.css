@@ -33,13 +33,13 @@ li { font-family: 'Press Start 2P', 'Concert One', cursive ; }
 #centered {text-align: center ;}
 
 #R { color: #E20C04 ;}
-#A { color: #F9A35C ;}
-#I { color: #FEE88A ;}
+#A { color: orange ;}
+#I { color: yellow ;}
 #N { color: #44CFBA ;}
 #B { color: #2D9CE0 ;}
 #O { color: #8C53DF ;}
 #W { color: #F65D61 ;}
-#Grey { color: #b8bbc2 ; font-family: 'Press Start 2P';}
+#Grey { color: #B8BBC2 ; font-family: 'Press Start 2P';}
 
 .right {            
   text-align: right; 
