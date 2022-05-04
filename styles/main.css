@@ -89,3 +89,7 @@ li {
 .smallerpic {
   max-width: 50%;
 }
+
+.redtext {
+  color: #ff4942;
+}
