@@ -43,6 +43,10 @@ li { font-family: 'Press Start 2P', 'Concert One', cursive ; }
   text-align: right; 
 }
 
+.centered {
+  text-align: center ;
+}
+
 .left {
   text-align: left; 
 }
