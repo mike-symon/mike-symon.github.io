@@ -83,45 +83,25 @@ Explain what functions are and why they are helpful. -->
       Explain the difference between accessing data from arrays and objects
     </h2>
     <p>
-      An array is a collection of things. it is similar to an object, but you
-      can access an array item by specifying it's index number. Arrays start
-      counting at 0.
+      Arrays can be used to store a single value that can be accessed by
+      specifying it's index number. Remember though, arrays start counting at 0.
     </p>
     <p></p>
     <p>For example,</p>
 
-    <p>Let dogs = ['pug', 'shibaInu', 'hotdog'];</p>
+    <p>let dogs = ['pug', 'shibaInu', 'hotdog'];</p>
+
+    <p>dogs[1]; shibaInu</p>
 
     <p>
-      dogs[1]; shibaInu
+      Objects can be used to store a collection of data, rather than just a
+      single value. You can access an object by using dot notation. You need to
+      specify the object, then the name of the property. Don't forget to put a
+      dot between the two.
     </p>
+    <p>For example,</p>
 
-    <p>
-      Objects allow you to store data in key-value pairs. The keys in those pairs are called properties.
-    </p>
-
-
-      <!-- Objects are one of the data types in JavaScript. They allow you to store data in ‘key-value pairs’. Those “keys” in those pairs are also called properties.
-      
-      To access a value from an object, you can use ‘dot notation’:
-      
-      First, you specify an object.
-      Second, you specify the name of the property.
-      Between the object and property name goes a dot (.)
-                
-                  let person = { 
-      
-                    name: 'John',
-      
-                    age: 20 
-          
-                  };
-       
-                  console.log(person.age);
-                
-              
-      The output will be the value. In this case, 20. -->
-    </p>
+    <p>let person = { name: 'Mike', age: 38 }; console.log(person.age);</p>
 
     <div class="dog">
       <img src="../images/shiba.jpeg" alt="Shiba" />
