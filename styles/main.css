@@ -1,63 +1,91 @@
-
 body {
-   background-color: #fcc824; 
-   /* background-image: url("../images/shiba.jpeg");  background-repeat: no-repeat;
+  background-color: #fcc824;
+  /* background-image: url("../images/shiba.jpeg");  background-repeat: no-repeat;
   background-size: 1900px 720px; 
   background-position: bottom left;  */
 }
- 
+
 .main_div {
-  text-align:center;
+  text-align: center;
   position: relative;
   left: 100px;
   height: 200px;
-  width: 500px; 
+  width: 500px;
 }
 
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 66px;
+  font-family: 'Rubik Wet Paint', 'Concert One', cursive;
+}
 
-h1 { color: red ; 
-text-align: center ;
-font-size: 66px ;
-font-family: 'Rubik Wet Paint', 'Concert One', cursive;}
+h2 {
+  font-family: 'Concert One', cursive;
+}
 
-h2 { font-family: 'Concert One', cursive ; }
+h3 {
+  font-family: 'Concert One', cursive;
+}
 
-h3 { font-family: 'Concert One', cursive ; }
+p {
+  color: black;
+  font-family: 'Press Start 2P', 'Concert One', cursive;
+}
 
-p  { color: black; font-family: 'Press Start 2P', 'Concert One', cursive ; }
+li {
+  font-family: 'Press Start 2P', 'Concert One', cursive;
+}
 
-li { font-family: 'Press Start 2P', 'Concert One', cursive ; }
+#centered {
+  text-align: center;
+}
 
-#centered {text-align: center ;}
+#R {
+  color: #ff4942;
+}
+#A {
+  color: rgb(255, 145, 0);
+}
+#I {
+  color: rgb(255, 235, 82);
+}
+#N {
+  color: #44cfba;
+}
+#B {
+  color: #2d9ce0;
+}
+#O {
+  color: #8c53df;
+}
+#W {
+  color: #f65d61;
+}
+#Grey {
+  color: #92959b;
+  font-family: 'Press Start 2P';
+}
 
-#R { color: #ff4942 ;}
-#A { color: rgb(255, 145, 0) ;}
-#I { color: rgb(255, 235, 82) ;}
-#N { color: #44CFBA ;}
-#B { color: #2D9CE0 ;}
-#O { color: #8C53DF ;}
-#W { color: #F65D61 ;}
-#Grey { color: #92959b ; font-family: 'Press Start 2P';}
-
-.right {            
-  text-align: right; 
+.right {
+  text-align: right;
 }
 
 .centered {
-  text-align: center ;
+  text-align: center;
 }
 
 .left {
-  text-align: left; 
+  text-align: left;
 }
 
 .dog {
   display: flex;
-  align-content: right; 
+  align-content: right;
   justify-content: space-around;
   size: width 1440px, height 812px;
 }
 
 .smallerpic {
-  max-width: 50% ;
+  max-width: 50%;
 }
