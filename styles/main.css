@@ -71,6 +71,10 @@ li {
   font-family: 'Press Start 2P';
 }
 
+#GREEN {
+  color: #66d573
+}
+
 .right {
   text-align: right;
 }
